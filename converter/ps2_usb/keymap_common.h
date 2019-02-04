@@ -198,4 +198,14 @@ KEYMAP_FULL( \
     K14,K9F,K11,K67,    K29,            K64,K13,K91,KA7,KAF,K94, KEB,KF2,KF4,  PWR,K70,K71,PEQL \
 )
 
+#define KEYMAP_MODEL_F( \
+) \
+KEYMAP_FULL( \
+    F1,F2,  \
+    F3,F4,  \
+    F5,F6,  \
+    F7,F8,  \
+    F9,F10, \
+)
+
 #endif
