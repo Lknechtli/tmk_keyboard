@@ -201,7 +201,7 @@ KEYMAP_FULL( \
 #define KEYMAP_MODEL_F( \
 ) \
 KEYMAP_FULL( \
-    F1,F2,  \
+    F1,F2,  K0E,K16,K1E,K26,K25,K2E,K36,K3D,K3E,K46,K45,K4E,K55,\
     F3,F4,  \
     F5,F6,  \
     F7,F8,  \
